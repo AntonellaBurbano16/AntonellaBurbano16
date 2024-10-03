@@ -13,7 +13,7 @@
  
 ## 🛠 Skills
 
-## ⚡ Hard Skills
+### ⚡ Hard Skills
 - Creación y ejecución de casos de prueba.
 - Evidencia de Bugs.
 - JMeter.
@@ -28,7 +28,7 @@
 - Pruebas Móviles
 - GIT
 
-## 😄 Soft Skills
+### 😄 Soft Skills
 - Comunicación asertiva.
 - Atención al detalle. 
 - Trabajo en equipo.
