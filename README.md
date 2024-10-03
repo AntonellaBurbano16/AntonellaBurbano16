@@ -14,19 +14,40 @@
 ## 🛠 Skills
 
 ### ⚡ Hard Skills
-- Creación y ejecución de casos de prueba.
-- Evidencia de Bugs.
-- JMeter.
-- Jira.
-- Confluence.
-- Zephyr.
-- SQL
-- Postman
-- Metodología SCRUM
-- Pruebas de accesibilidad.
-- Pruebas UX/UI
-- Pruebas Móviles
-- GIT
+
+- ##### Pruebas de Software y Control de Calidad
+    - Creación y ejecución de casos de prueba
+    - Documentación y evidencia de bugs
+    - Pruebas de accesibilidad
+    - Pruebas UX/UI
+    - Pruebas móviles
+    - Metodología SCRUM
+
+- #### Herramientas de Testing
+    - JMeter
+    - Selenium IDE
+    - Zephyr
+    - Postman
+
+- #### Lenguajes de Programación
+    - Java
+    - C++
+    - Assembly
+
+- #### Bases de Datos
+    - MySQL
+    - MongoDB
+    - SQL
+
+- #### Software y Plataformas
+    - Oracle VM VirtualBox
+    - Asterisk
+    - Google Cloud Platform
+    - GIT
+
+- #### Herramientas de Gestión
+    - Jira
+    - Confluence
 
 ### 😄 Soft Skills
 - Comunicación asertiva.
