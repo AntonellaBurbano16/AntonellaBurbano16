@@ -66,7 +66,7 @@
 
 - [Bases de GIT, GITHUB - Desafio Latam, 2024](https://cursos.desafiolatam.com/certificates/syklqnjeui) 
 
-- Testing y Automatización - MindHub, En curso
+- Testing y Automatización - MindHub, 2024
 
 
 ## 🔗 Links
